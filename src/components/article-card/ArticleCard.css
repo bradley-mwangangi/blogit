@@ -1,0 +1,9 @@
+.MuiCard-root {
+    /*margin: 10px;*/
+}
+
+.chips {
+    display: flex;
+    padding: 8px;
+    gap: 5px;
+}
